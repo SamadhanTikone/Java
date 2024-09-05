@@ -12,7 +12,7 @@ class A {
 
 System.out.println();
 System.out.println();
-System.out.println();
+// System.out.println();
 }
 
 //   int findSum(int n){
